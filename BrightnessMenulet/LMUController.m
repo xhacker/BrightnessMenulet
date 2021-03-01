@@ -7,6 +7,7 @@
 //
 
 #import "LMUController.h"
+#import <IOKit/graphics/IOGraphicsLib.h>
 
 @interface LMUController ()
 
